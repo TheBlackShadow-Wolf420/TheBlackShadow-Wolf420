@@ -9,4 +9,11 @@
 <!---
 TheBlackShadow-Wolf420/TheBlackShadow-Wolf420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---># This is a basic Python program
+
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
+
